@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Our Love Story ❤️</title>
+<style>
+  :root {
+    --pink-darkest: #7a2048;
+    --pink-dark: #b3446c;
+    --pink-main: #e75480;
+    --pink-medium: #f48fb1;
+    --pink-light: #fce4ec;
+    --pink-lightest: #fff0f5;
+    --pink-accent: #ff6f91;
+    --gold: #d4af37;
+  }
+ 
+  * {
+    box-sizing: border-box;
+  }
+ 
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(180deg, var(--pink-lightest) 0%, var(--pink-light) 100%);
+    color: #4a2035;
+    line-height: 1.8;
+  }
+ 
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px 24px 80px;
+  }
+ 
+  h1 {
+    text-align: center;
+    font-size: 2.4em;
+    color: var(--pink-darkest);
+    text-shadow: 1px 1px 0 var(--pink-light);
+    margin: 40px 0 20px;
+  }
+ 
+  h2 {
+    color: var(--pink-dark);
+    border-bottom: 2px solid var(--pink-medium);
+    padding-bottom: 8px;
+    margin-top: 50px;
+    font-size: 1.5em;
+  }
+ 
+  h3, h4 {
+    color: var(--pink-main);
+    text-align: center;
+    margin-top: 40px;
+  }
+ 
+  p, .story-block {
+    background: #ffffffaa;
+    border-left: 4px solid var(--pink-accent);
+    padding: 16px 20px;
+    border-radius: 0 12px 12px 0;
+    margin: 16px 0;
+    font-size: 1.02em;
+  }
+ 
+  b, strong {
+    color: var(--pink-darkest);
+  }
+ 
+  em {
+    color: var(--pink-dark);
+  }
+ 
+  img {
+    display: block;
+    margin: 16px auto;
+    border-radius: 14px;
+    border: 4px solid var(--pink-medium);
+    box-shadow: 0 4px 14px rgba(231, 84, 128, 0.35);
+  }
+ 
+  .gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 14px;
+  }
+ 
+  .gallery img {
+    margin: 0;
+  }
+ 
+  hr {
+    border: none;
+    border-top: 2px dashed var(--pink-medium);
+    margin: 40px 0;
+  }
+ 
+  .links {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 14px;
+    margin: 30px 0;
+  }
+ 
+  .links a {
+    display: inline-block;
+    background: var(--pink-main);
+    color: #fff;
+    text-decoration: none;
+    padding: 12px 28px;
+    border-radius: 30px;
+    font-weight: 600;
+    box-shadow: 0 3px 10px rgba(231, 84, 128, 0.4);
+    transition: transform 0.15s ease, background 0.15s ease;
+  }
+ 
+  .links a:hover {
+    background: var(--pink-darkest);
+    transform: translateY(-2px);
+  }
+ 
+  .closing {
+    text-align: center;
+    margin-top: 60px;
+    font-style: italic;
+    color: var(--pink-dark);
+  }
+ 
+  .hearts-divider {
+    text-align: center;
+    font-size: 1.4em;
+    color: var(--pink-accent);
+    margin: 30px 0;
+  }
+</style>
+</head>
+ 
+<body>
+<div class="container">
+ 
+  <h1>❤️ Our Love Story ❤️</h1>
+ 
+  <h2>❤️ How It All Started</h2>
+  <p class="story-block">
+    Our story is something I never planned, but somehow it became one of the most beautiful parts of my life. It all started with friendship. At first, we were just two people who slowly started talking, sharing things, laughing at stupid stuff, and spending more time with each other. I never knew that this simple friendship would eventually become something so important to me.
+  </p>
+ 
+  <h2>🌸 The First Time We Met</h2>
+  <p class="story-block">
+    I still remember the first time I saw and met you. It was at <b>Bhavya's birthday in Pushkar Vanam, on August 5th</b>. At that time, I had no idea that this person would someday become such an important part of my life. <b>In our first meeting you wore a pink and white dress</b> — I fell in love more when I saw you that day, but I thought you would never love me back.
+  </p>
+ 
+  <h2>💬 Our First Chat</h2>
+  <p class="story-block">
+    Our first real conversation started in intermediate 1st year. I remember she called me "brother" and wished me Happy Raksha Bandhan. It was just a normal conversation at the time, but looking back now, I realize it was the beginning of something I would never want to lose.
+  </p>
+ 
+  <h2>🥹 When Friendship Started Becoming Love</h2>
+  <p class="story-block">
+    As time passed, we became closer. We started sharing things that we couldn't easily share with everyone else. Somewhere between those late conversations, random jokes, caring about each other, and being there for one another, my feelings started changing. I didn't know exactly when it happened, but slowly, you became more than just my friend. You became someone I couldn't imagine my life without.
+  </p>
+ 
+  <h2>💔 Our First Fight</h2>
+  <p class="story-block">
+    Of course, our story wasn't always perfect. I still remember our first fight — it was about me not giving her enough time; it wasn't really a big fight, I just didn't understand her properly. But somehow, even after all the fights and misunderstandings that came later, we always found our way back to each other. We learned that being together doesn't mean never fighting. It means choosing each other even after the fight is over.
+  </p>
+ 
+  <h2>🤍 Us Against Our Ego</h2>
+  <p class="story-block">
+    We had so many fights — sometimes anger, sometimes misunderstanding, and sometimes just our stubborn egos. But one thing I love about us is that we never let our ego become bigger than what we felt for each other. No matter how angry we became, somewhere inside, we still cared. We learned to say sorry, to understand each other, and to come back instead of letting one fight become the end of us.
+  </p>
+ 
+  <h2>🔐 The Feelings We Couldn't Say</h2>
+  <p class="story-block">
+    The funniest part of our story is that neither of us could actually say it out loud first. We both had feelings, but somehow we couldn't say them directly. So we found our own little way of expressing what was inside our hearts.<br><br>
+    Then one day, you gave me your password. When I read everything you had written about your feelings for me, I honestly didn't know how to react. Seeing your feelings written there made me realize that the person I had feelings for was feeling the same way about me. I could finally see what you had been hiding in your heart, and that moment is something I will never forget.
+  </p>
+ 
+  <h2>❤️ May 1st — The Day We Became Us</h2>
+  <p class="story-block">
+    And then came <b>May 1st</b>. After keeping our feelings hidden for so long, we finally stopped being scared and told each other what was really in our hearts. We saw all our feelings from our accounts and so many conversations — she said she was afraid of losing the friendly bond, but that day I was so, so happy.<br><br>
+    That day wasn't just another day for me. It became one of the most important dates in our story. The two people who started as friends finally admitted that their friendship had become love. ❤️
+  </p>
+ 
+  <h2>♾️ From Friendship To Love</h2>
+  <p class="story-block">
+    When I look back at everything we've been through, I don't think our story is special because it was perfect. It's special because it wasn't. We fought, we got angry, we misunderstood each other, and sometimes we hurt each other. But after every fight, we still chose each other.<br><br>
+    We started with friendship. We grew closer through countless conversations and memories. We survived our fights without letting ego win. We kept our feelings hidden until we finally found the courage to confess them. And on May 1st, our friendship officially became our love story.<br><br>
+    I don't know what the future has planned for us, but I know I'm grateful for every part of our journey — the good moments, the bad moments, the laughs, the fights, the tears, and everything in between. Because every single one of those moments brought us here.<br><br>
+    From friendship to love, from fights to forgiveness, from two people hiding their feelings to two people finally choosing each other. That's our story. And honestly, I wouldn't want it any other way. ❤️
+  </p>
+ 
+  <div class="hearts-divider">❤️ ❤️ ❤️</div>
+ 
+  <h2>The Unforgettable Moments In Our Journey ❤️</h2>
+  <p class="story-block">
+    The day in Pushkar Vanam — I never forgot that I was watching you secretly, and no one knew I loved you, and how happy I was just to see you. Then the day I spent time with you at Mahakaleshwar Temple, and the time spent at Gowthami Ghat — even small, small moments made me so happy that day at Bhavani Mala. It was an unforgettable day for me.<br><br>
+    And after that, we celebrated your birthday. I was very disappointed that day because you said you wouldn't come to the cafe, but Geethika and Bhavya helped me so much. At last I saw you, and I was so, so happy that day — I took a photo with you, it was my first photo with you. Thank you sooo muchhhhh...❤️<br><br>
+    After that we met again at the cafe, this time as a couple. I still remember we took photos, and that day you held my hand — I was really so, so happy, and we promised to never give up on each other. To the people who helped bring me closer to you, I'm really thankful — especially our "Animal" group of friends, I'm very thankful to them.
+  </p>
+ 
+  <h1>To My Beautiful Girl 🌸</h1>
+ 
+  <img src="" width="300" alt="Our photo">
+ 
+  <p>
+    Welcome to our little world. ❤️<br>
+    This website is a collection of our memories, our story, and everything I want to tell you.
+  </p>
+ 
+  <hr>
+ 
+  <h2>Explore Our Story 📖</h2>
+  <p class="story-block">
+    It all started with friendship. We had many conversations, many fights, and many misunderstandings, but we never let our ego become bigger than our relationship. ❤️
+  </p>
+ 
+  <h3>Our Memories 🥰</h3>
+  <img src="WhatsApp Image 2026-09-11 at 4.13.49 PM.jpeg" width="350px" alt="Our memory">
+ 
+  <h4>Our Photos 📸</h4>
+ 
+  <h2>A Little Message For You 🥰</h2>
+  <p><em>This is our first photo from when we were friends — it was unforgettable ❤️</em></p>
+ 
+  <div class="gallery">
+    <img src="uptop2 (2).jpeg" width="200px" alt="Uptop cafe">
+    <img src="uptop.jpeg" width="200px" alt="Uptop cafe">
+    <img src="uptop1.jpeg" width="200px" alt="Uptop cafe">
+    <img src="3333333.jpeg" width="200px" alt="Us">
+  </div>
+  <p><em>We met at Uptop cafe when we were in a relationship.</em></p>
+ 
+  <div class="links">
+    <a href="letter.html">Letter ❤️</a>
+    <a href="son.html">Song 🥰</a>
+    <a href="index.html">Your Surprise 🎁</a>
+  </div>
+ 
+  <hr>
+ 
+  <h2>A Little Message For You 🥰</h2>
+  <p class="closing">
+    No matter how many pages this website has, my favorite part of the story will always be the moments I spend with you. ❤️
+  </p>
+ 
+</div>
+</body>
+</html>
